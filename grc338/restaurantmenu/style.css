@@ -1,6 +1,9 @@
-/*CSS DOCUMENT*/
+<!-- External/linked CSS file -->
+<link href="https://jess-dong.github.io/grc338/restaurantmenu/style.css"
 
+<html>
 <style>
+
 .koberl {
     background-color: #5891B1;
 	color: #E5E7E9;
@@ -9,23 +12,28 @@
     font-size:250%;
   	text-align:center;
 }
-.courses {
-	margin-top:30px;
-	color: #5891B1;
-	font-family: serif;
-    font-size:135%;
-}
+
 .main-menu {
 	color: #5891B1;
 	padding: 10px;
     font-size:175%;
 	text-align:center;
 }    
+
+.courses {
+	margin-top:30px;
+	color: #5891B1;
+	font-family: serif;
+    font-size:135%;
+}
+
+<body>
 .menu-items {
 	padding: 0px;
     margin-top:30px;
 	font-family: serif;
       font-size:110%;
 }
-
+</body>
 </style>
+</html>
