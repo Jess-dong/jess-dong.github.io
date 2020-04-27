@@ -1,0 +1,29 @@
+.koberl {
+    background-color: #5891B1;
+	color: #E5E7E9;
+	padding: 20px;
+  	font-family: sans-serif; 
+    font-size:250%;
+  	text-align:center;
+}
+
+.main-menu {
+	color: #5891B1;
+	padding: 10px;
+    font-size:175%;
+	text-align:center;
+}    
+
+.courses {
+	margin-top:30px;
+	color: #5891B1;
+	font-family: serif;
+    font-size:135%;
+}
+
+.menu-items {
+	padding: 0px;
+    margin-top:30px;
+	font-family: serif;
+      font-size:110%;
+}
