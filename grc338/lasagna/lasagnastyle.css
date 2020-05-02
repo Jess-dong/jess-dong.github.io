@@ -1,0 +1,62 @@
+/*CSS DOCUMENT*/
+
+.container h1 {
+    font-family: Centaur, serif;
+    font-size: 3em;
+    margin-bottom: 2%;
+    line-height: 25%;
+}
+
+.container h2 {
+    font-family: Roboto;
+    font-size: 1.5em;
+    margin-top: 2%;
+}
+
+.intro p {
+    font-family: Centaur, serif;
+    font-size: 1.5em;
+    margin-bottom: 2%;
+}
+
+img {
+    display: block;
+    float: right;
+    padding: 1.5em;
+    width: 50%;
+}
+
+.ingredients h3 {
+    font-family: Centaur, serif;
+    font-size: 1.75em;
+    margin-bottom: 2%;
+    line-height: 5%
+}
+
+.maincontent ul {
+    font-family: Centaur, serif;
+    font-size: 1.5em;
+    margin-bottom: 2%;
+    line-height: 150%;
+}
+
+.directions h3 {
+    font-family: Centaur, serif;
+    font-size: 1.75em;
+    margin-bottom: 2%;
+    line-height: 15%;
+}
+
+.directions ol {
+    font-family: Centaur, serif;
+    font-size: 1.5em;
+    margin-bottom: 2%;
+    line-height: normal;
+}
+
+h6 {
+    font-family: Roboto, sans-serif;
+    font-size: 1.125em;
+    margin-bottom: 2%;
+    line-height: 5%
+}
