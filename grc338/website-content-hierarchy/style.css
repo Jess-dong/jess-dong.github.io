@@ -1,0 +1,24 @@
+/*CSS document */
+
+img {
+    width: 100%;
+}
+
+h1 {
+    width: 20em;
+    font-size: 1em;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: ;
+}
