@@ -1,0 +1,115 @@
+/*CSS document */
+
+/*nav bar*/
+nav ul {
+    font-family: bilo, sans-serif;
+    color: #D5870F ;
+    word-spacing: 1em;
+    padding: 0;
+}
+
+nav ul li {
+    font-family: bilo, sans-serif;
+    font-size: 3.5vw;
+    word-spacing: 1em;
+    list-style-type: none ;
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    word-spacing: 1em; 
+    color: #D5870F;
+}
+
+/*image on Home page*/
+.homeimage {
+    padding: 1.5em;
+    width: 20em;
+    height: auto;
+}
+    
+/*image on Menu page*/
+.image-container{
+    max-width: 100%;
+    max-height: 100%; 
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0.5em;
+}
+
+h1 {
+    font-family: bilo, sans-serif;
+    width: 20em;
+    font-size: 1em;
+}
+h1 img {
+    padding:1em;
+    max-width: 50em;
+    height: auto;
+}
+
+h2 {
+    font-family: bilo, sans-serif;
+    font-weight: 500;
+    font-size: 3.5em;
+    text-align: center;
+}
+
+h3 {
+    font-family: bilo, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 2.5em;
+    text-align: center;
+    word-wrap:break-word;
+    width: auto;
+    line-height: 1.5em;
+}
+
+h4 {
+    font-family: bilo, sans-serif;
+    font-weight: 400;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+p {
+    font-family: bilo, sans-serif;
+    font-weight: 200;
+    font-size: 2.125em; 
+    line-height: normal;
+    width: auto;
+    justify-content: space-around;
+}
+
+footer p {
+    font-family: bilo, sans-serif;
+    font-weight: 200;
+    font-size: 1em;  
+    line-height: normal;
+    width: auto;
+    text-align: center; 
+}
+
+ul {
+    font-family: bilo, sans-serif;
+    line-height: 0.5em;
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+.location-list {
+    font-family: bilo, sans-serif;
+    font-weight: 200;
+    font-size: 2.5em;  
+    line-height: 1.5em;
+    width: auto;
+    text-align: center;
+    list-style-type: none;
+}
+
+.content-container {
+    padding-bottom: 2.5em;
+}
